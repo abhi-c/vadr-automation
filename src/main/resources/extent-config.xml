@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extentreports>
+	<configuration>
+		<encoding>UTF-8</encoding>
+		<documentTitle>Vadr Automation Reports</documentTitle>
+		<reportName>Test Runs</reportName>
+		<reportHeadline>Execution Report</reportHeadline>
+		<theme>dark</theme>
+	</configuration>
+</extentreports>
